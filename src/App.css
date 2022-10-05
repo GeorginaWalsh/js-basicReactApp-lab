@@ -1,4 +1,15 @@
-.App {
+.App-header {
+  background-color: yellow;
+  height: 200px;
+  padding: 10px;
+  color: white;
+}
+
+.course {
+  padding: 10px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +46,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
